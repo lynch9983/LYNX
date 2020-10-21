@@ -1,0 +1,7 @@
+{
+		"domainname": "+",
+		"port": "80",
+		"maxcontentsize": 8,
+		"maxage": 3600,
+		"workthreadcount": 0
+}

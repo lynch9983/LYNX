@@ -1,0 +1,13 @@
+{
+	"initdll": [],
+	"filter": [],
+	"redirect": [
+		{
+			"dotype": "same",
+			"domode": "redirect",
+			"fromurl": "/",
+			"tourl": "https://github.com/lynch9983/LYNX",
+			"note": "首页"
+		}
+	]
+}
