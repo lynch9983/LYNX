@@ -1,6 +1,13 @@
 {
 	"initdll": [],
-	"filter": [],
+	"filter": [
+		{
+			"name": "/httpapi/",
+			"dotype": "left",
+			"filename": "samples\\httpAPI\\samples_httpAPI.dll",
+			"note": "HTTP API Demo"
+		}
+	],
 	"redirect": [
 		{
 			"dotype": "same",
